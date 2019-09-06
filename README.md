@@ -24,6 +24,7 @@ The output approach I took is to print the words in their correct order, because
 </pre>
 
 In terms of programming: 
+- Time and Space efficient structures
 - Meaningful variable names.
 - Correct indentation.
 - Suitable comments.
