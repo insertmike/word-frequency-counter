@@ -61,3 +61,14 @@ level: 1
 </pre>
   
 ### How to run locally
+**Part A**
+1. Extract the *test-tree-functuonalities.cpp* from the *test-application* folder to the root folder.
+2. Remove *counter.cpp* file from the root folder.
+2. Open the project under your *build-chain* *(e.g Visual Studio)*
+3. Run main 
+
+**Part B**
+1. Extract the test text files from the *test-application* folder to the root folder.
+2. Open the project under your *build chain*
+3. Run main
+
